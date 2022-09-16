@@ -5,4 +5,22 @@ div.jumbotron {
 
 .sectionLight{
     background-color: #eceeef;
+    padding:2rem;
+}
+
+.sectionDark{
+    background-color:#cccccc;
+    padding: 2rem;
+}
+
+.coolStuffWrapper{
+    margin-top: 20px;   
+}
+
+button.coolStuffBtn{
+    color: white;
+    background-color:red;
+    display: block;
+    margin: auto;
+    
 }
