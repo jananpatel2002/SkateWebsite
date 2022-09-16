@@ -47,3 +47,12 @@ button.btnCenter{
     margin-bottom:3%;
     width:54%
 }
+
+div.sectionDark div.row img.img-fluid{
+    display: block;
+    margin: auto;
+}
+
+img.footerImg{
+    padding: 2.5%;
+}
