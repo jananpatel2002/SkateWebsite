@@ -1,6 +1,5 @@
 # Skate Website
- ###A website that is perfect for a skater with mobile compatibility.
- ###The modals are working 
+### A website that is perfect for a skater with mobile compatibility and has working modals. 
  
  ![image](https://user-images.githubusercontent.com/70957608/190864149-427c83f1-3d31-43ec-864b-52f73e2b4686.png)
 ![image](https://user-images.githubusercontent.com/70957608/190864242-50b7a245-a949-4c1a-898d-f7f0bc289b2b.png)
