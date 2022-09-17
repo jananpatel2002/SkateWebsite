@@ -71,6 +71,9 @@ i.fa-instagram{
 
 .fa-brands{
     margin: 20px;
+    
 }
 
-.
+div.modal-content p{
+    font-family: monospace;
+}
