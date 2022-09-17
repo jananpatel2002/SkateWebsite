@@ -1,4 +1,4 @@
-# SkateWebsite
+# Skate Website
  A website that is perfect for a skater with mobile compatibility
  
  ![image](https://user-images.githubusercontent.com/70957608/190864149-427c83f1-3d31-43ec-864b-52f73e2b4686.png)
