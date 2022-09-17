@@ -31,28 +31,44 @@ h5.modal-title {
 
 }
 
-.modalFormWrapper{
-    padding:2rem;
+.modalFormWrapper {
+    padding: 2rem;
 }
 
-img.imgCenter{
+img.imgCenter {
     display: block;
     margin: auto;
 }
 
-button.btnCenter{
+button.btnCenter {
     margin: auto;
     display: block;
     margin-top: 2%;
-    margin-bottom:3%;
-    width:54%
+    margin-bottom: 3%;
+    width: 54%
 }
 
-div.sectionDark div.row img.img-fluid{
+div.sectionDark div.row img.img-fluid {
     display: block;
     margin: auto;
 }
 
-img.footerImg{
+img.footerImg {
     padding: 2.5%;
+}
+
+i.fa-square-facebook {
+    color: #3b5998;
+}
+
+i.fa-google-plus-g {
+    color:#c32f10;
+}
+
+i.fa-instagram{
+    color:white;
+}
+
+.fa-brands{
+    margin: 20px;
 }
